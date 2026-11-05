@@ -1,0 +1,18 @@
+1. Pesquisa de acidentes de trânsito
+O programa analisa dados de 12 cidades, identificando os maiores e menores índices de acidentes, calculando médias de veículos por estado e levantando os totais de acidentes.
+2. Classificação de produtos
+O programa recebe códigos de produtos e os classifica conforme uma tabela. Códigos inválidos geram avisos, e a digitação de zero encerra a leitura e apresenta o total de cada categoria.
+3. Comparação de crescimento de altura
+O programa calcula quantos anos serão necessários para que Zé ultrapasse a altura de João, atualizando o crescimento de ambos a cada repetição.
+4. Pontuação de pingue-pongue
+O programa registra os pontos dos jogadores e atualiza suas pontuações até que um deles alcance pelo menos 21 pontos com uma vantagem mínima de dois pontos.
+5. Crescimento populacional
+O programa calcula quantos anos serão necessários para que a população do país A ultrapasse a do país B, considerando suas taxas anuais de crescimento.
+6. Soma de números positivos e negativos
+O programa recebe números até que seja digitado zero, separa os valores positivos e negativos, calcula suas somas e identifica os números pares e ímpares.
+7. Pesquisa de audiência de televisão
+O programa registra os canais assistidos e a quantidade de pessoas por residência, calculando o percentual de audiência de cada canal até o encerramento da pesquisa.
+8. Cálculo de preços e parcelamento de veículos
+O programa recebe o valor de um veículo e calcula o preço à vista com desconto de 20%, além das opções de parcelamento com seus respectivos acréscimos e valores das parcelas.
+9. Cálculo de bônus para clientes
+O programa analisa os dados de 150 clientes e calcula seus bônus conforme o valor das compras do ano anterior, aplicando 10% ou 15% de acordo com a faixa de compras.
