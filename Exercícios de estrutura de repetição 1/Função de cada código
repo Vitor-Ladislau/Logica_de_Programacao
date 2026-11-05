@@ -1,0 +1,29 @@
+1. Contagem de números até um valor informado
+O programa solicita ao usuário um número e utiliza uma estrutura de repetição para exibir todos os números em sequência, começando em 1 e terminando no valor informado. A cada repetição, o contador é incrementado até atingir o limite estabelecido.
+
+2. Cálculo de tabuada
+O programa solicita ao usuário um número e o limite desejado para o cálculo da tabuada. Em seguida, utiliza uma estrutura de repetição para multiplicar o número informado pelos valores sequenciais, apresentando os resultados até alcançar o limite definido.
+
+3. Contagem de números negativos
+O programa recebe números digitados pelo usuário continuamente e verifica quais deles são negativos. Sempre que um número negativo é informado, um contador é incrementado. A repetição continua até que o usuário digite zero, quando o programa encerra a leitura e apresenta a quantidade de valores negativos registrados.
+
+4. Pesquisa salarial e quantidade de filhos
+O programa realiza uma pesquisa para coletar informações sobre os salários e a quantidade de filhos dos habitantes. Durante a execução, acumula os salários e a quantidade de filhos, além de identificar o maior salário e contabilizar as pessoas que recebem até R$ 100,00. Ao final, quando um salário negativo é informado, a repetição é encerrada e são calculadas as médias e o percentual solicitado.
+
+5. Média dos números pares
+O programa solicita números ao usuário e verifica quais são pares. Os valores que atendem a essa condição são acumulados e contabilizados para o cálculo da média. A estrutura de repetição continua recebendo valores até que o usuário digite zero, momento em que o programa encerra a leitura e apresenta a média dos números pares informados.
+
+6. Contagem regressiva com intervalo definido
+O programa solicita um número inicial e um intervalo de decremento. A partir dessas informações, realiza uma contagem regressiva, subtraindo o intervalo definido a cada repetição. O processo continua até que a contagem alcance ou ultrapasse o zero, conforme a lógica implementada.
+
+7. Média dos números positivos
+O programa recebe números continuamente e verifica se são positivos. Os valores positivos são acumulados e contabilizados para calcular a média. Quando o usuário informa um número negativo, a estrutura de repetição é encerrada e o programa apresenta a média dos números positivos digitados.
+
+8. Exibição de números pares em ordem decrescente
+O programa solicita um número inteiro positivo e utiliza uma estrutura de repetição para apresentar os números pares em ordem decrescente até chegar a zero. Caso o número informado seja ímpar, o algoritmo deve ajustar o início da contagem para o número par imediatamente inferior. A cada repetição, o valor é reduzido em duas unidades.
+
+9. Jogo de adivinhação
+O programa gera aleatoriamente um número entre 1 e 50, que deverá ser descoberto pelo usuário. Durante a execução, o usuário possui até cinco tentativas para acertar. A cada resposta, o programa verifica se o número informado é maior, menor ou igual ao número sorteado, fornecendo orientações para a próxima tentativa. Se acertar, apresenta uma mensagem de vitória; caso contrário, revela o número correto após o encerramento das tentativas.
+
+10. Construção de triângulo numérico
+O programa solicita ao usuário um número inteiro que determina o tamanho do triângulo numérico. Utilizando estruturas de repetição aninhadas, uma para controlar as linhas e outra para exibir os números de cada linha, o algoritmo constrói uma sequência crescente. Cada linha começa no número 1 e termina no número correspondente à posição da linha, formando um triângulo organizado.
