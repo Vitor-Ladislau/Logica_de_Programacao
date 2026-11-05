@@ -1,0 +1,8 @@
+1. Contagem de números em um intervalo
+O programa realiza a leitura de 80 números e verifica quais estão entre 10 e 150, incluindo os limites. Ao final, apresenta a quantidade de números que atendem a essa condição.
+2. Identificação de sexo e contagem de pessoas
+O programa solicita o nome e o sexo de 56 pessoas, identificando cada uma como homem ou mulher. Durante a execução, contabiliza os registros e, ao final, apresenta o total de homens e mulheres.
+3. Verificação de condições numéricas
+O programa recebe um número e utiliza estruturas condicionais para verificar se ele é maior que 80, menor que 25 ou igual a 40, exibindo uma mensagem conforme a condição atendida.
+4. Controle de transações comerciais
+O programa registra o código e o valor de 15 transações, diferenciando compras à vista e a prazo. Ao final, calcula os totais de cada modalidade, o valor geral das compras e o valor da primeira prestação das compras parceladas em três vezes.
